@@ -26,3 +26,5 @@ def list_tuple(str):
 
 
 print list_tuple([(2,5),(1,2),(4,4),(2,3),(2,1)])
+
+#Lets check if it works.

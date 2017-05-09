@@ -139,7 +139,27 @@ def apply(func, *args, **kwargs):
 
 # Write your code here:
 
+def mk_adder(increment):
+    def add(arg):
+        return arg + increment
+    return add
 
+def apply1(func, arg):
+    return func(arg)
+    
+def announce1(func):
+    def newfunc(arg):
+        print("Calling with arg: " + str(arg))
+        return func(arg)
+    return newfunc
+
+def keylookup(key):
+    def lookup(dictionary):
+        return dictionary[key]
+    return lookup
+
+def apply(func, *args, **kwargs):
+    return func(*args, **kwargs)
 
 # Do not edit any code below this line!
 

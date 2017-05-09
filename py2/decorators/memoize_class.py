@@ -45,7 +45,7 @@ CALLING: h 3 2 31
 
 Let's ensure @Memoize is a class-based decorator, not function-based.
 >>> type(Memoize)
-<class 'type'>
+<type 'type'>
 
 '''
 

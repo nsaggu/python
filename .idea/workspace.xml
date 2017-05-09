@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09b31b8-de82-4702-80d6-86b1d8a77467" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py3/varargs1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py2/functions/decorators1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/greaterthanequals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/memoize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/memoize_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/memoize_class_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/memoize_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/returns.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/decorators/webframework.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/functions/funcobj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/functions/funcobj_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/functions/varargs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/functions/varargs_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/helloworld.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py2/helloworld_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/greaterthanequals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/memoize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/memoize_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/memoize_class_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/memoize_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/returns.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/decorators/webframework.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/functions/funcobj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/functions/funcobj_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/functions/varargs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/functions/varargs_extra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/helloworld.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/py3/helloworld_extra.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/py3/varargs1.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/greaterthanequals.py" afterPath="$PROJECT_DIR$/py2/decorators/greaterthanequals.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/memoize.py" afterPath="$PROJECT_DIR$/py2/decorators/memoize.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/memoize_class.py" afterPath="$PROJECT_DIR$/py2/decorators/memoize_class.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/memoize_class_extra.py" afterPath="$PROJECT_DIR$/py2/decorators/memoize_class_extra.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/memoize_extra.py" afterPath="$PROJECT_DIR$/py2/decorators/memoize_extra.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/returns.py" afterPath="$PROJECT_DIR$/py2/decorators/returns.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/decorators/webframework.py" afterPath="$PROJECT_DIR$/py2/decorators/webframework.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/functions/funcobj.py" afterPath="$PROJECT_DIR$/py2/functions/funcobj.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/functions/funcobj_extra.py" afterPath="$PROJECT_DIR$/py2/functions/funcobj_extra.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/functions/varargs.py" afterPath="$PROJECT_DIR$/py2/functions/varargs.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/functions/varargs_extra.py" afterPath="$PROJECT_DIR$/py2/functions/varargs_extra.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/helloworld.py" afterPath="$PROJECT_DIR$/py2/helloworld.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/py3/helloworld_extra.py" afterPath="$PROJECT_DIR$/py2/helloworld_extra.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +53,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$Doctests_in_varargs.coverage" NAME="Doctests in varargs Coverage Results" MODIFIED="1494255414378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/functions" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_funcobj.coverage" NAME="Doctests in funcobj Coverage Results" MODIFIED="1494258073706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/functions" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_varargs.coverage" NAME="Doctests in varargs Coverage Results" MODIFIED="1494257674308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/functions" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_varargs__2_.coverage" NAME="Doctests in varargs (2) Coverage Results" MODIFIED="1494258336614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/py2/functions" />
     <SUITE FILE_PATH="coverage/python$Sort.coverage" NAME="Sort Coverage Results" MODIFIED="1494254173845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$varargs1.coverage" NAME="varargs1 Coverage Results" MODIFIED="1494254721962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_memoize.coverage" NAME="Doctests in memoize Coverage Results" MODIFIED="1494261121064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py2/decorators" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_funcobj__1_.coverage" NAME="Doctests in funcobj (1) Coverage Results" MODIFIED="1494258246737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py2/functions" />
     <SUITE FILE_PATH="coverage/python$practice.coverage" NAME="practice Coverage Results" MODIFIED="1494254159861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$decorators1.coverage" NAME="decorators1 Coverage Results" MODIFIED="1494259243884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py2/functions" />
     <SUITE FILE_PATH="coverage/python$Doctests_in_helloworld.coverage" NAME="Doctests in helloworld Coverage Results" MODIFIED="1494254223136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3" />
+    <SUITE FILE_PATH="coverage/python$funfact.coverage" NAME="funfact Coverage Results" MODIFIED="1494257324747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3/functions" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_varargs__1_.coverage" NAME="Doctests in varargs (1) Coverage Results" MODIFIED="1494258301525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py2/functions" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -25,41 +72,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lists.py">
+      <file leaf-file-name="memoize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py2/decorators/memoize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="497">
+              <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="memoize.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/py2/decorators/memoize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="varargs.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/py3/functions/varargs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="varargs1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py3/varargs1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="-629">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,6 +110,12 @@
         <option value="$PROJECT_DIR$/lists.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/py3/varargs1.py" />
+        <option value="$PROJECT_DIR$/py3/functions/funfact.py" />
+        <option value="$PROJECT_DIR$/py3/functions/varargs.py" />
+        <option value="$PROJECT_DIR$/py3/functions/funcobj.py" />
+        <option value="$PROJECT_DIR$/py2/functions/varargs.py" />
+        <option value="$PROJECT_DIR$/py2/functions/decorators1.py" />
+        <option value="$PROJECT_DIR$/py2/decorators/memoize.py" />
       </list>
     </option>
   </component>
@@ -122,6 +155,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -136,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="py3" />
+              <option name="myItemId" value="solutions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,11 +197,87 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="py3" />
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorators" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -169,55 +292,24 @@
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Python tests.Doctests in varargs">
-    <configuration default="false" name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Doctests in helloworld" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Doctests in memoize">
+    <configuration default="false" name="Doctests in varargs (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py2/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3/helloworld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py2/functions/varargs.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -226,36 +318,76 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="varargs1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Doctests in funcobj (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py2/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py2/functions/funcobj.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Doctests in varargs (2)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/py2/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/py2/functions/varargs.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="decorators1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py2/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3/varargs1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py2/functions/decorators1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Doctests in varargs" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Doctests in memoize" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py2/decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3/functions/varargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py2/decorators/memoize.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -473,19 +605,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Sort" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in helloworld" />
-      <item index="3" class="java.lang.String" itemvalue="Python.varargs1" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Doctests in varargs" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in varargs (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Doctests in funcobj (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in varargs (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.decorators1" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Doctests in memoize" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in varargs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.varargs1" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in helloworld" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Sort" />
-        <item index="4" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in memoize" />
+        <item index="1" class="java.lang.String" itemvalue="Python.decorators1" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in varargs (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Doctests in varargs (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Doctests in funcobj (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -503,16 +635,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctests_in_helloworld - 2017.05.08 at 09h 37m 03s.xml">
-      <configuration name="Doctests in helloworld" configurationId="tests" />
+    <history-entry file="Doctests_in_funcobj - 2017.05.08 at 10h 39m 30s.xml">
+      <configuration name="Doctests in funcobj" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctests_in_varargs - 2017.05.08 at 09h 56m 54s.xml">
-      <configuration name="Doctests in varargs" configurationId="tests" />
+    <history-entry file="Doctests_in_funcobj - 2017.05.08 at 10h 40m 04s.xml">
+      <configuration name="Doctests in funcobj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_funcobj - 2017.05.08 at 10h 40m 50s.xml">
+      <configuration name="Doctests in funcobj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_funcobj - 2017.05.08 at 10h 41m 13s.xml">
+      <configuration name="Doctests in funcobj" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_funcobj_(1) - 2017.05.08 at 10h 44m 06s.xml">
+      <configuration name="Doctests in funcobj (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_memoize - 2017.05.08 at 11h 31m 14s.xml">
+      <configuration name="Doctests in memoize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_memoize - 2017.05.08 at 11h 32m 01s.xml">
+      <configuration name="Doctests in memoize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_varargs_(1) - 2017.05.08 at 10h 44m 02s.xml">
+      <configuration name="Doctests in varargs (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_varargs_(1) - 2017.05.08 at 10h 45m 01s.xml">
+      <configuration name="Doctests in varargs (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_varargs_(2) - 2017.05.08 at 10h 45m 36s.xml">
+      <configuration name="Doctests in varargs (2)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="962" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16964285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -520,7 +676,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -601,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py3/varargs1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -617,10 +765,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/py3/functions/funfact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py3/functions/funcobj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="144" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/py3/functions/varargs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="63" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py2/functions/varargs_extra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py2/functions/varargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/py2/functions/funcobj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2085">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py2/functions/funcobj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1541">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py2/functions/decorators1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/py2/decorators/memoize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py2/decorators/memoize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
           <folding />
         </state>
       </provider>

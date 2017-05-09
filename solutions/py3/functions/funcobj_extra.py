@@ -125,6 +125,44 @@ Modify your code to use lambda expressions instead of separately defined key fun
 
 # Write your code here:
 
+# most_spaces using a custom key function
+# You can define num_spaces inside of most_spaces, or outside (globally) - either is fine.
+def most_spaces(items):
+    def num_spaces(s):
+        return s.count(" ")
+    return max(items, key=num_spaces)
+
+# most_spaces using a lambda (for extra credit)
+def most_spaces(items):
+    return max(items, key=lambda s: s.count(" "))
+
+# these count_* functions are helpers for fewest_vowels and most_consonants
+def count_chars(s, subset):
+    count = 0
+    for c in s.lower():
+        if c in subset:
+            count += 1
+    return count
+def count_vowels(s):
+    return count_chars(s, 'aeiou')
+def count_consonants(s):
+    return count_chars(s, 'bcdfghjklmnpqrstvwxyz')
+
+def fewest_vowels(items):
+    return min(items, key=count_vowels)
+
+def most_consonants(items):
+    return max(items, key=count_consonants)
+
+# sorted_by_word_count using a custom key function
+def sorted_by_word_count(items):
+    def num_words(s):
+        return len(s.split())
+    return sorted(items, key=num_words)
+
+# sorted_by_word_count using lambda (for exatra credit)
+def sorted_by_word_count(items):
+    return sorted(items, key=lambda s: len(s.split()))
 
 
 # Do not edit any code below this line!

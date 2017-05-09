@@ -46,7 +46,22 @@ Going to x=8, y=33, z=-4
 
 # Write your code here:
 
+def set_destination(x, y, z):
+    print('Going to x={}, y={}, z={}'.format(x, y, z))
 
+def product(a, b, c):
+    return a * b * c
+
+def total(u, v, w):
+    return u + v + w
+
+def max_even(*nums):
+    biggest = None
+    for num in nums:
+        if num % 2 == 0:
+            if biggest is None or num > biggest:
+                biggest = num
+    return biggest
 
 # Do not edit any code below this line!
 
